@@ -19,9 +19,10 @@ A minimalistic Todo List application developed with React.js. This project allow
    cd react-todo-list
    npm install
    ```
-3.**Run the App***
+3.**Run the App**
    ```bash
-      npm start
+   npm start
    ```
-**Open your browser and navigate to https://659427f808ae6f1ed8883bc0--kaleidoscopic-dragon-0eae55.netlify.app/ to start using the Todo List app.**
+**Open your browser and navigate to https://659427f808ae6f1ed8883bc0--kaleidoscopic-dragon-0eae55.netlify.app/ **
+**to start using the Todo List app.**
 **Feel free to explore the codebase to understand how the Todo List app is structured and how React components are utilized. Customize the app to suit your needs and enhance your React.js skills.**

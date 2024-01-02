@@ -15,13 +15,13 @@ A minimalistic Todo List application developed with React.js. This project allow
    ```bash
    git clone https://github.com/your-username/react-todo-list.git
 2. **Install Dependencies**
-  ```bash
-  cd react-todo-list
-  npm install
-  ```
+   ```bash
+   cd react-todo-list
+   npm install
+   ```
 3.**Run the App***
-  ```
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 **Open your browser and navigate to http://localhost:3000 to start using the Todo List app.**
 **Feel free to explore the codebase to understand how the Todo List app is structured and how React components are utilized. Customize the app to suit your needs and enhance your React.js skills.**
